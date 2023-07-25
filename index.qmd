@@ -2,6 +2,8 @@
 title: "Johnson-Polasky Lab"
 ---
 
-This is a Quarto website.
+This is repository website for Jonson-Polasky Lab, the website is under construction. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Official website is [here](https://johnsonpolaskylab.umn.edu).
+
+Github Page can be found [here](https://github.com/Johnson-Polasky-Lab), please contact the lab coordinator to let you join the lab. 

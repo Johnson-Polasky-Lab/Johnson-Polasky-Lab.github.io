@@ -1,0 +1,14 @@
+---
+title: "Skill Sessions"
+---
+
+## Introduction to GTAP (2023-06-19)
+- Presenter: Lifeng Ren
+- [Here is the link to the Recordings](https://youtu.be/Q86JmKy2nB0)
+- Here is the link to the Materials
+
+## GTAP Followup and Intro to Quarto (2023-07-17)
+- Presenter: Lifeng Ren
+- Here is the link to the Recordings
+- Here is the link to the Materials
+
