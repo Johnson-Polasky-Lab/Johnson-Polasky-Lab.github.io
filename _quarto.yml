@@ -8,7 +8,6 @@ website:
       - href: index.qmd
         text: Home
       - skills.qmd
-      - ideas.qmd
 
 format:
   html:
