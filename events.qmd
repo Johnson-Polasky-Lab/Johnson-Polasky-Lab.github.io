@@ -1,0 +1,24 @@
+---
+title: "Lab Meetings"
+---
+
+## 2023 Summer Lab Meeting Schedule
+
+| Session Type        | Date       | Session Leader | Topic                                                                           |
+|:--------------|:--------------|:--------------|:--------------------------|
+| Regular Lab Meeting | 2023-06-12 | Lifeng         | Mitigation Expenditure and Extreme Wildfire Smoke Exposure in California        |
+| Skill Session       | 2023-06-26 | Lifeng         | GTAP                                                                            |
+| Regular Lab Meeting | 2023-07-10 | Libby          | Accounting for environmental justice and equity within Natural Capital Accounts |
+| Skill Session       | 2023-07-17 | Lifeng         | GTAP pt. 2                                                                      |
+| Regular Lab Meeting | 2023-07-24 | Ryan           | Lab Research Brainstorming Session                                              |
+| Skill Session       | 2023-07-31 | Libby          | InVEST/raster data prep                                                         |
+| Regular Lab Meeting | 2023-08-07 | Lingling       | NASA EEJ                                                                        |
+| Skill Session       | 2023-08-14 | Nfamara        | Remote sensing methods and techniques                                           |
+| Regular Lab Meeting | 2023-08-21 | Yanxu          | TBD                                                                             |
+| Skill Session       | 2023-08-28 | Saleh          | Semantic segmentation for satellite imagery                                     |
+
+Notes:
+
+1.  Lab sessions are held biweekly, every other Monday at 12:00pm in Ruttan 119.
+2.  Lab session for 2023-07-31 would be held in Ruttan 230.
+3.  We might need to find an additional time for the brainstorming session.
