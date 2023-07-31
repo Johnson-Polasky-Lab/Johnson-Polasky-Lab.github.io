@@ -1,5 +1,5 @@
 ---
-title: "Lab Resources"
+title: "Public Resources"
 ---
 
 ## Skill Sessions
@@ -7,8 +7,8 @@ title: "Lab Resources"
 ### Introduction to RunGTAP (2023-06-19)
 
 -   Presenter: Lifeng Ren
--   [Recordings](https://youtu.be/Q86JmKy2nB0)
--   Materials: \[[Slides_Option_Github](https://github.com/Johnson-Polasky-Lab/repo/blob/65d38a4ab53f86d64624ce776768cfe749eb1861/skills/GTAP-quickintro.pptx)\], \[[Slides_Option_GoogleDrive](https://docs.google.com/presentation/d/1Ikf-62pN4BuGkMb4la9gEYRwdFNkVnQb/edit?usp=share_link&ouid=101024700252420286168&rtpof=true&sd=true)\], \[Data\]
+-   Recordings
+-   Materials: \[[Slides_Option_GoogleDrive](https://docs.google.com/presentation/d/1Ikf-62pN4BuGkMb4la9gEYRwdFNkVnQb/edit?usp=share_link&ouid=101024700252420286168&rtpof=true&sd=true)\], \[Data\]
 
 ### From GTAP's Tablo Code to Quarto (2023-07-17)
 
